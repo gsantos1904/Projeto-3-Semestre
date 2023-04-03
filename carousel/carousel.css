@@ -160,6 +160,10 @@ li a:hover {
   animation: mover-imagem 4s ;
 }
 
+.card-body {
+	color:  #2f003f;
+}	
+
 @keyframes mover-imagem {
   0% {
     transform: translateX(200px);
